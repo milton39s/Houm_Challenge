@@ -1,10 +1,10 @@
-# Houm Challenge
+# Properties Challenge
 
 ## Introducción	
 
 [Download the project attachment here.](https://s3.amazonaws.com/coderbyteprojectattachments/question-custom-takehome-project-cjvok56xt3-dataset.zip)
 
-Houm es una startup que permite administrar, arrendar y vender propiedades rápido, seguro y fácil a miles de usuarios en Latinoamérica. En su desafío por entregar la mejor experiencia de usuarios, la empresa y su head de operaciones le pide hacer un estudio sobre el comportamiento de sus visitas en torno al clima. Es por esto que lo contactan a usted para dar respuestas a las preguntas de la compañía.
+En una startup que permite administrar, arrendar y vender propiedades en Latinoamérica. En su desafío por entregar la mejor experiencia de usuarios, la empresa y su head de operaciones le pide hacer un estudio sobre el comportamiento de sus visitas en torno al clima. Es por esto que lo contactan a usted para dar respuestas a las preguntas de la compañía.
 
 
 
